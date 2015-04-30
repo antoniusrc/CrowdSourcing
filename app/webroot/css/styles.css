@@ -1,0 +1,57 @@
+thead td {
+	font-weight: bold;
+}
+
+#wrap > .container {
+	margin-top: 60px;
+}
+
+.right{
+	float: right;
+}
+
+.left{
+	float: left;
+}
+
+.comment{
+	padding: 20px 60px 20px 60px;
+	margin-bottom: 30px;
+	color: inherit;
+	background-color: #EEE;
+	border-radius: 10px;
+}
+
+.comment > p{
+	font-size: 21px;
+	margin-top: -10px;
+}
+
+.clear{
+	clear: both;
+}
+
+.back{
+	margin: 20px auto 20px auto;
+}
+
+.img{
+	display: inline;
+}
+
+.img > img{
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+	padding: 20px;
+	background-color: #EEE;
+}
+
+.history{
+	margin-top: 20px;
+}
+
+.response a.btn{
+	margin-left: 100px;
+	text-align: center;
+}
